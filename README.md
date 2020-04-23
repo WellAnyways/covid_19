@@ -1,7 +1,7 @@
 # Team Halo - Covid-19 Testing - Drive Thru Appointment Scheduling Application
 
 ## Table of Contents
-  [Decsription](#description)\
+  [Description](#description)\
   [Creators](#creators)
 
 ## Description
